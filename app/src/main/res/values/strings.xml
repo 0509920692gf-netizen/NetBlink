@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وميض الشبكة</string>
+    <string name="tile_label">قطع الشبكة ١٠ ث</string>
+
+    <string name="shizuku_ready">Shizuku جاهز ✔</string>
+    <string name="shizuku_no_perm">Shizuku يعمل، لكن التطبيق يحتاج إذنًا منه</string>
+    <string name="shizuku_off">Shizuku غير مُشغَّل. شغّله أولًا ثم ارجع هنا</string>
+    <string name="grant">منح الإذن / فتح Shizuku</string>
+    <string name="need_shizuku">يلزم تشغيل Shizuku ومنح الإذن أولًا</string>
+
+    <string name="cut_now">قطع الاتصال الآن (١٠ ثوانٍ)</string>
+    <string name="cutting">جارٍ القطع…</string>
+
+    <string name="auto_label">إعادة الاتصال تلقائيًا عند تدهور الشبكة</string>
+    <string name="auto_hint">فحص خفيف كل ٢٠ ثانية، وإعادة اتصال بعد ٣ فحوصات فاشلة، بفاصل ٦٠ ثانية بين كل مرة.</string>
+
+    <string name="notif_channel">مراقبة الشبكة</string>
+    <string name="notif_monitoring">المراقبة تعمل</string>
+    <string name="notif_ok">الشبكة جيدة (%1$d مللي ثانية)</string>
+    <string name="notif_no_net">لا يوجد اتصال بالإنترنت</string>
+    <string name="notif_reconnecting">جارٍ إعادة الاتصال…</string>
+</resources>
